@@ -1,10 +1,10 @@
 # Twitter_Bot
 A Python bot that automates several actions on Twitter, such as following users and liking tweets.
 
-#Dependices:-
+# Dependices:-
 Tweepy Library is used
 
-#DEMO:
+# DEMO:
 
 Follows keywords given, for example in here keyword is Python & JavaScript. 
 
