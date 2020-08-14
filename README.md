@@ -6,13 +6,24 @@ Tweepy Library is used
 
 #DEMO:
 
-Follows keywords given, for example in here keyword is Python. 
+Follows keywords given, for example in here keyword is Python & JavaScript. 
 
-![twitter](https://user-images.githubusercontent.com/55802357/90249645-7898f580-de58-11ea-874b-889d3a0ea4a9.PNG)
+1)Compilation in Notebook
 
-![twitter ss](https://user-images.githubusercontent.com/55802357/90249567-5010fb80-de58-11ea-87d8-b81f3aa604ae.PNG)
+![Capture2](https://user-images.githubusercontent.com/55802357/90251917-35d91c80-de5c-11ea-978c-55344a573884.PNG)
 
-![ss2](https://user-images.githubusercontent.com/55802357/90249495-37a0e100-de58-11ea-9c3a-c4829a533d7e.PNG)
+2)Retweets and Likes topics,hashtags and message containing Python and JavaScript keywords
+
+![js](https://user-images.githubusercontent.com/55802357/90251986-53a68180-de5c-11ea-82f3-11a8a6c96573.PNG)
+
+![s](https://user-images.githubusercontent.com/55802357/90252037-73d64080-de5c-11ea-81fa-2858c28a6d33.PNG)
+
+![Capture](https://user-images.githubusercontent.com/55802357/90252125-9700f000-de5c-11ea-82fb-f49baeedda53.PNG)
+
+![ss2](https://user-images.githubusercontent.com/55802357/90252384-037bef00-de5d-11ea-9b58-c0067e81164b.PNG)
+
+
+
 
 
 
